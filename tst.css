@@ -1,0 +1,11 @@
+
+body {
+  color: rgb(56,64,71);
+  background-color: rgb(119,136,153);
+  font-family: arial;
+}
+
+._dash-undo-redo {
+  display: none;
+}
+
